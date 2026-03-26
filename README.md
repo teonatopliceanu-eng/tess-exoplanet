@@ -25,4 +25,5 @@ MAST - Mikulski Archive for Space Telescopes (MAST) Portal - allows astronomers 
 BLS periodogram - statistical tool (part of Astropy) speficially used for detecting transiting exoplanets and specific binaries
 
 phase-folding - astronomical data analysis technique that stacks multiple, separate cycles of periodic data (eg. planet transits) on top of each other to form a simple and cohesive cycle
+
 binned - processed, lower-resolution version (in the context of lightkurve - of a stellar light curve created by grouping multiple data points into bins), used to reduce noise, scatter and data volume
